@@ -295,9 +295,9 @@ else:
 # End - 21/12/2020
 
 # FUTURE WORK OR FURTHER ITERATIONS
-#   Interpolate the tables to provide more accurate output speeds and torques
-#   Provide more useful and accurate information on safety factors
-#   Make the motor powers you can choose from only actual standard motor powers
+# Interpolate the tables to provide more accurate output speeds and torques
+# Provide more useful and accurate information on safety factors
+# Make the motor powers you can choose from only actual standard motor powers
 
 # Put everything in functions and classes instead of this sequential spaghetti mess
 # Make this work with a GUI, no one else is gonna use a console application
