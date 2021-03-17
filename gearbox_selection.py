@@ -6,7 +6,7 @@
 import openpyxl, logging  # To allow us to use the openpyxl and logging packages and their functions
 
 logging.basicConfig(level=logging.DEBUG, format='%(message)s')  # This will allow you to see all the debugging messages that are debug class or higher
-#logging.disable(logging.CRITICAL)  # This will disable all the logging messages that are critical or less
+logging.disable(logging.CRITICAL)  # This will disable all the logging messages that are critical or less
 
 print('\nGearbox Selection Program')
 
